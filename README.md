@@ -1,1 +1,1 @@
-# Pandas-Series-and-index-
+Amaliyot_ishlar_mohir_dev
